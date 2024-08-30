@@ -8,10 +8,6 @@ This is the admin dashboard application which admin can manage users, products, 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Development](#development)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-  - [Code Style](#code-style)
-  - [Submitting a Pull Request](#submitting-a-pull-request)
 
 ## Getting Started
 
