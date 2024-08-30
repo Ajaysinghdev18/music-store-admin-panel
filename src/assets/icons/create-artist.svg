@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Group_348" data-name="Group 348" transform="translate(-751 -725)">
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="28" height="28" transform="translate(751 725)" fill="none"/>
+    <g id="Group_1156" data-name="Group 1156" transform="translate(8 -0.83)">
+      <g id="Group_1155" data-name="Group 1155" transform="translate(749 732.4)">
+        <line id="Line_82" data-name="Line 82" y2="6" transform="translate(3 0)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5"/>
+        <line id="Line_83" data-name="Line 83" y2="6" transform="translate(6 3) rotate(90)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5"/>
+      </g>
+      <g id="Group_1157" data-name="Group 1157" transform="translate(790 582.4)">
+        <path id="md-brush" d="M18,4.72,16.875,3.612a.849.849,0,0,0-1.186,0l-7.547,7.4,2.314,2.268L18,5.884A.808.808,0,0,0,18,4.72Z" transform="translate(-43.25 146.629)" fill="currentColor"/>
+        <path id="md-brush-2" data-name="md-brush" d="M6.461,12.452a2.5,2.5,0,0,0-2.525,2.475,1.692,1.692,0,0,1-1.686,1.65,4.378,4.378,0,0,0,3.368,1.654,3.335,3.335,0,0,0,3.368-3.3A2.5,2.5,0,0,0,6.46,12.452Z" transform="translate(-43.25 146.629)" fill="currentColor"/>
+      </g>
+    </g>
+  </g>
+</svg>

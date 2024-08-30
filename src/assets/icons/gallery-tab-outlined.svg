@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_80" data-name="Group 80" transform="translate(-751 -725)">
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="24" height="24" transform="translate(751 725)" fill="none"/>
+    <g id="Group_1232" data-name="Group 1232" transform="translate(-4700 -451)">
+      <path id="Icon_material-library-music" data-name="Icon material-library-music" d="M4.6,9H3V20.2a1.6,1.6,0,0,0,1.6,1.6H15.8V20.2H4.6Z" transform="translate(5452 1174.2)"/>
+      <path id="Subtraction_37" data-name="Subtraction 37" d="M11.2,12.8H1.6A1.6,1.6,0,0,1,0,11.2V1.6A1.6,1.6,0,0,1,1.6,0h9.6a1.6,1.6,0,0,1,1.6,1.6v9.6A1.6,1.6,0,0,1,11.2,12.8Zm-6-6.4a2,2,0,1,0,2,2V4H9.6V2.4H6.4V6.808A1.966,1.966,0,0,0,5.2,6.4Z" transform="translate(5458.2 1180)"/>
+      <g id="Group_1232-2" data-name="Group 1232" transform="translate(5458.2 1180)" opacity="0">
+        <path id="Icon_material-library-music-2" data-name="Icon material-library-music" d="M20.2,3H10.6A1.6,1.6,0,0,0,9,4.6v9.6a1.6,1.6,0,0,0,1.6,1.6h9.6a1.6,1.6,0,0,0,1.6-1.6V4.6A1.6,1.6,0,0,0,20.2,3Z" transform="translate(-9 -3)" fill="none" stroke="#000" stroke-width="1.5"/>
+        <path id="Icon_material-library-music-3" data-name="Icon material-library-music" d="M21.4,9.1H19v4.4a2,2,0,1,1-2-2,1.958,1.958,0,0,1,1.2.408V7.5h3.2Z" transform="translate(-11.8 -5.1)"/>
+      </g>
+    </g>
+  </g>
+</svg>

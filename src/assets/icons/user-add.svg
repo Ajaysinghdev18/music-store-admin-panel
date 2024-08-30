@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.75" height="16" viewBox="0 0 20.75 16">
+  <g id="Group_1156" data-name="Group 1156" transform="translate(-746.25 -731.83)">
+    <g id="Group_1155" data-name="Group 1155" transform="translate(747 736.4)">
+      <line id="Line_82" data-name="Line 82" y2="6" transform="translate(3 0)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_83" data-name="Line 83" y2="6" transform="translate(6 3) rotate(90)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+    <path id="user" d="M14,14a4,4,0,1,1,4-4A4,4,0,0,1,14,14Zm0,3c3.186,0,6.045.571,8,3.063V22H6V20.063C7.955,17.57,10.814,17,14,17Z" transform="translate(745 725.83)" fill="currentColor"/>
+  </g>
+</svg>

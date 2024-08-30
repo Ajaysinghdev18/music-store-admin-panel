@@ -1,0 +1,14 @@
+<svg id="Component_65_280" data-name="Component 65 – 280" xmlns="http://www.w3.org/2000/svg" width="50" height="36" viewBox="0 0 50 36">
+  <g id="Rectangle_69" data-name="Rectangle 69" fill="none" stroke="#f2f6fc" stroke-width="1">
+    <rect width="50" height="36" rx="4" stroke="none"/>
+    <rect x="0.5" y="0.5" width="49" height="35" rx="3.5" fill="none"/>
+  </g>
+  <g id="Group_1003" data-name="Group 1003" transform="translate(-7549 -2473)">
+    <line id="Line_33" data-name="Line 33" x2="12" transform="translate(7572 2483)" fill="none" stroke="#02c58d" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_35" data-name="Line 35" x2="12" transform="translate(7572 2491)" fill="none" stroke="#02c58d" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_36" data-name="Line 36" x2="12" transform="translate(7572 2499)" fill="none" stroke="#02c58d" stroke-linecap="round" stroke-width="2"/>
+    <circle id="Ellipse_19" data-name="Ellipse 19" cx="2" cy="2" r="2" transform="translate(7564 2481)" fill="#02c58d"/>
+    <circle id="Ellipse_20" data-name="Ellipse 20" cx="2" cy="2" r="2" transform="translate(7564 2489)" fill="#02c58d"/>
+    <circle id="Ellipse_21" data-name="Ellipse 21" cx="2" cy="2" r="2" transform="translate(7564 2497)" fill="#02c58d"/>
+  </g>
+</svg>

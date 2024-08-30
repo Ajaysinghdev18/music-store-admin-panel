@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.339" height="12.454" viewBox="0 0 16.339 12.454">
+  <g id="arrow-repeat" transform="translate(0.191 -4.271)">
+    <path id="Path_1037" data-name="Path 1037" d="M2.852,14.644a.5.5,0,0,0-.708,0l-2,2a.5.5,0,1,0,.708.708L2.5,15.706l1.646,1.647a.5.5,0,1,0,.708-.708l-2-2Zm13-1a.5.5,0,0,0-.708,0L13.5,15.291l-1.646-1.647a.5.5,0,1,0-.708.708l2,2a.5.5,0,0,0,.708,0l2-2a.5.5,0,0,0,0-.708Z" transform="translate(0 -5)" fill="currentColor" stroke="currentColor" stroke-width="0.3" fill-rule="evenodd"/>
+    <path id="Path_1038" data-name="Path 1038" d="M10.5,5.5A5,5,0,0,0,6.308,7.771a.5.5,0,0,1-.837-.546A6,6,0,0,1,16.5,10.5a.5.5,0,1,1-1,0,5,5,0,0,0-5-5ZM5,10a.5.5,0,0,1,.5.5,5,5,0,0,0,9.191,2.727.5.5,0,1,1,.837.546A6,6,0,0,1,4.5,10.5.5.5,0,0,1,5,10Z" transform="translate(-2.501)" fill="currentColor" stroke="currentColor" stroke-width="0.3" fill-rule="evenodd"/>
+  </g>
+</svg>

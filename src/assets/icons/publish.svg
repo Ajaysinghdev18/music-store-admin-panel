@@ -1,0 +1,5 @@
+<svg id="arrow-down-circle" xmlns="http://www.w3.org/2000/svg" width="16" height="14.076" viewBox="0 0 16 14.076">
+  <path id="Path_28" data-name="Path 28" d="M10.356,22.973a.791.791,0,0,0,1.12,0l4.187-4.189,4.188,4.189a.792.792,0,0,0,1.12-1.12L16.224,17.1a.791.791,0,0,0-1.12,0l-4.747,4.747a.791.791,0,0,0,0,1.12Z" transform="translate(-7.663 -13.875)" fill="currentColor" fill-rule="evenodd"/>
+  <path id="Path_29" data-name="Path 29" d="M17.666,19.62a.791.791,0,0,0,.791-.791V10.916a.791.791,0,0,0-1.582,0v7.912A.791.791,0,0,0,17.666,19.62Z" transform="translate(-9.666 -5.544)" fill="currentColor" fill-rule="evenodd"/>
+  <path id="Union_1" data-name="Union 1" d="M8.7,0H.791a.791.791,0,0,0,0,1.582H15.209a.791.791,0,1,0,0-1.582Z" transform="translate(0 0)" fill="currentColor"/>
+</svg>

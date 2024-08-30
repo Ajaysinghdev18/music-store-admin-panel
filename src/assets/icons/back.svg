@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #02c58d;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Group_380" data-name="Group 380" transform="translate(24 24) rotate(180)">
+    <rect id="Rectangle_64" data-name="Rectangle 64" class="cls-1" width="24" height="24"/>
+    <g id="Group_248" data-name="Group 248" transform="translate(8 20) rotate(-90)">
+      <line id="Line_29" data-name="Line 29" class="cls-2" x2="8" y2="8"/>
+      <line id="Line_30" data-name="Line 30" class="cls-2" x1="8" y2="8" transform="translate(8)"/>
+    </g>
+  </g>
+</svg>

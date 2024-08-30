@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_80" data-name="Group 80" transform="translate(-751 -725)">
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="24" height="24" transform="translate(751 725)" fill="none"/>
+    <g id="settings" transform="translate(751.416 725.581)">
+      <path id="Subtraction_31" data-name="Subtraction 31" d="M9.288,16H6.141l-.474-2.366a6.183,6.183,0,0,1-1.8-1.047l-2.294.746L0,10.667l1.815-1.6a5.9,5.9,0,0,1,0-2.088L0,5.333,1.573,2.667l2.287.772A5.959,5.959,0,0,1,5.667,2.392L6.141,0H9.288L9.76,2.366a6.253,6.253,0,0,1,1.8,1.047l2.291-.746,1.573,2.667-1.812,1.6a5.857,5.857,0,0,1,0,2.088l1.813,1.646-1.573,2.667-2.287-.772A5.879,5.879,0,0,1,9.76,13.608L9.288,16ZM7.715,4.581A3.421,3.421,0,1,0,11.135,8,3.425,3.425,0,0,0,7.715,4.581Z" transform="translate(3.87 3.419)"/>
+    </g>
+  </g>
+</svg>

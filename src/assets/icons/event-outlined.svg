@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.5" height="17.5" viewBox="0 0 17.5 17.5">
+  <g id="calendar-check-fill" transform="translate(0.75 0.75)">
+    <path id="Path_68" data-name="Path 68" d="M4,.5a.5.5,0,0,0-1,0V1H2A2,2,0,0,0,0,3V4H16V3a2,2,0,0,0-2-2H13V.5a.5.5,0,0,0-1,0V1H4ZM0,5H16v9a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2ZM10.854,8.854a.5.5,0,1,0-.708-.708L7.5,10.793,6.354,9.646a.5.5,0,0,0-.708.708l1.5,1.5a.5.5,0,0,0,.708,0l3-3Z" fill="none" stroke="currentColor" stroke-width="1.5" fill-rule="evenodd"/>
+  </g>
+</svg>

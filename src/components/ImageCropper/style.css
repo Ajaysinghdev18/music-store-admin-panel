@@ -1,0 +1,8 @@
+.ReactCrop{
+      height: 100%;
+      display: flex;
+      width: 100%;
+}
+.ReactCrop__image{
+    object-fit: contain;
+}

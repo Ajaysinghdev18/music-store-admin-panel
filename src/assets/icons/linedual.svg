@@ -1,0 +1,10 @@
+<svg id="Component_228_6" data-name="Component 228 – 6" xmlns="http://www.w3.org/2000/svg" width="72" height="24" viewBox="0 0 72 24">
+  <rect id="Rectangle_76" data-name="Rectangle 76" width="72" height="24" rx="12" fill="#e9eff9" opacity="0" style="mix-blend-mode: multiply;isolation: isolate"/>
+  <g id="Group_148" data-name="Group 148" transform="translate(-124 -220)">
+    <line id="Line_43" data-name="Line 43" x2="48" transform="translate(136 232)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_44" data-name="Line 44" x2="4" y2="4" transform="translate(180 228)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_51" data-name="Line 51" x1="4" y2="4" transform="translate(136 228)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_45" data-name="Line 45" y1="4" x2="4" transform="translate(180 232)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_50" data-name="Line 50" x1="4" y1="4" transform="translate(136 232)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

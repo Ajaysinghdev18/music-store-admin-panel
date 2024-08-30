@@ -1,0 +1,12 @@
+* {
+  font-family: sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: gray;
+  left: 4px;
+}
