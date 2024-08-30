@@ -1,4 +1,4 @@
-# Music Store Admin
+# Music Store Admin Panel
 
 This is the admin dashboard application which admin can manage users, products, artists, NFTs, contents, etc
 
