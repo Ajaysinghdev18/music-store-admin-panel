@@ -1,6 +1,6 @@
 {
-  "short_name": "DM admin",
-  "name": "D-Music Admin",
+  "short_name": "Music Store admin",
+  "name": "Admin",
   "icons": [
     {
       "src": "favicon.png",

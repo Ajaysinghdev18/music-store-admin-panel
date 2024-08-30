@@ -140,8 +140,8 @@ export default function Template1(props: ITemplate) {
               transform="translate(730 423.602) rotate(-90)"
             />
             <text
-              id="D-Music_s_Clubhouse_-_Metaverse"
-              data-name="D-Music's Clubhouse - Metaverse"
+              id="Music_s_Clubhouse_-_Metaverse"
+              data-name="Music's Clubhouse - Metaverse"
               transform="translate(762.211 401.107)"
               fill="#fff"
               font-size="24"

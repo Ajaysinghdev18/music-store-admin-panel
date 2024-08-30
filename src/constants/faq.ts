@@ -3,12 +3,12 @@ export const FAQ = [
     title: 'Getting Started',
     questions: [
       'Getting Started',
-      'Are there age restrictions to sign-up for D-Music?',
-      'How do I create a D-Music account?',
+      'Are there age restrictions to sign-up for Music?',
+      'How do I create a Music account?',
       'Why are you asking for my phone number?',
       'Do I need to verify my email?',
       'I never received the SMS text message with my code',
-      'Which countries does D-Music support?'
+      'Which countries does Music support?'
     ]
   },
   {
@@ -23,12 +23,12 @@ export const FAQ = [
     ]
   },
   {
-    title: 'The D-Music Platform',
+    title: 'The Music Platform',
     questions: [
-      'What is D-Music?',
+      'What is Music?',
       'What is Casper?',
       'What is an NFT Drop?',
-      'When do new drops happen on D-Music?',
+      'When do new drops happen on Music?',
       'Withdrawal restrictions and limits',
       'Deposit restrictions and limits'
     ]
@@ -37,7 +37,7 @@ export const FAQ = [
     title: 'Purchasing NFTs',
     questions: [
       'When can I gift a NFT?',
-      'Can I gift a D-Music NFT to another D-Music collector?',
+      'Can I gift a Music NFT to another Music collector?',
       'How to protect yourself from credit card fraud',
       'What is a Prepaid Crypto Balance and how do I use it?',
       'How do I purchase an NFT with a credit or debit card?'
@@ -46,17 +46,17 @@ export const FAQ = [
   {
     title: 'Artists and Experiences',
     questions: [
-      'What type of music artists are on D-Music?',
+      'What type of music artists are on Music?',
       'How do you learn about future artists Drops?',
-      'Can D-Music NFTs help me access exclusive experiences?',
-      'I\'m a musician or recording artist. How do I work with D-Music?'
+      'Can Music NFTs help me access exclusive experiences?',
+      "I'm a musician or recording artist. How do I work with Music?"
     ]
   },
   {
-    title: 'Managing Your D-Music Account',
+    title: 'Managing Your Music Account',
     questions: [
       'How do I use authenticator apps for verification (instead of SMS) ?',
-      'How to process Crypto withdrawals on D-Music (US and International Users)',
+      'How to process Crypto withdrawals on Music (US and International Users)',
       'How do I withdraw my funds?',
       'How do I change my password?',
       'How do I deactivate my account?'

@@ -216,7 +216,7 @@ export const TicketDetailPage: FC = () => {
                 8
               </Box>
               <S.BasicInfoItem>
-                <Box>D-Music username</Box>
+                <Box>Music username</Box>
                 <Box fontWeight={'600'}>{ticket?.username}</Box>
               </S.BasicInfoItem>
             </Box>

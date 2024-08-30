@@ -68,7 +68,7 @@ export const SignInPage: FC = () => {
   return (
     <S.SignInPage>
       <Typography variant="h5" textAlign="center">
-        D-Music Admin
+        Music Admin
       </Typography>
       <Formik
         initialValues={{

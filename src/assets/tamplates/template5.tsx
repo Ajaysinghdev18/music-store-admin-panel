@@ -142,8 +142,8 @@ export default function Template5(props: ITemplate) {
           fill="blue"
         />
         <text
-          id="D-MUSIC_EVENT_TICKET"
-          data-name="D-MUSIC EVENT TICKET"
+          id="MUSIC_EVENT_TICKET"
+          data-name="MUSIC EVENT TICKET"
           transform="translate(148.5 540) rotate(-90)"
           fill="blue"
           font-size="16"
@@ -152,12 +152,12 @@ export default function Template5(props: ITemplate) {
           letter-spacing="0.2em"
         >
           <tspan x="-97.304" y="0">
-            D-MUSIC EVENT TICKET
+            MUSIC EVENT TICKET
           </tspan>
         </text>
         <text
-          id="D-MUSIC_EVENT_TICKET-2"
-          data-name="D-MUSIC EVENT TICKET"
+          id="MUSIC_EVENT_TICKET-2"
+          data-name="MUSIC EVENT TICKET"
           transform="translate(1595 737)"
           fill="blue"
           font-size="16"
@@ -166,12 +166,12 @@ export default function Template5(props: ITemplate) {
           letter-spacing="0.2em"
         >
           <tspan x="-97.304" y="0">
-            D-MUSIC EVENT TICKET
+            MUSIC EVENT TICKET
           </tspan>
         </text>
         <text
-          id="D-MUSIC_EVENT_TICKET-3"
-          data-name="D-MUSIC EVENT TICKET"
+          id="MUSIC_EVENT_TICKET-3"
+          data-name="MUSIC EVENT TICKET"
           transform="translate(960 364)"
           fill="blue"
           font-size="16"
@@ -180,7 +180,7 @@ export default function Template5(props: ITemplate) {
           letter-spacing="0.547em"
         >
           <tspan x="-150.048" y="0">
-            D-MUSIC EVENT TICKET
+            MUSIC EVENT TICKET
           </tspan>
         </text>
         <path
@@ -234,8 +234,8 @@ export default function Template5(props: ITemplate) {
             </tspan>
           </text>
           <text
-            id="D-Music_s_Clubhouse_Metaverse"
-            data-name="D-Music's Clubhouse
+            id="Music_s_Clubhouse_Metaverse"
+            data-name="Music's Clubhouse
 Metaverse"
             transform="translate(1488 690) rotate(-90)"
             font-size="30"
@@ -263,8 +263,8 @@ June 25 2022
             </tspan>
           </text>
           <text
-            id="D-Music_s_Clubhouse_Metaverse-2"
-            data-name="D-Music's Clubhouse
+            id="Music_s_Clubhouse_Metaverse-2"
+            data-name="Music's Clubhouse
 Metaverse"
             transform="translate(1124 412)"
             font-size="30"

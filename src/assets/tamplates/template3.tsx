@@ -77,8 +77,8 @@ June 25 2022
           </tspan>
         </text>
         <text
-          id="D-Music_s_Clubhouse_Metaverse"
-          data-name="D-Music's Clubhouse
+          id="Music_s_Clubhouse_Metaverse"
+          data-name="Music's Clubhouse
 
 Metaverse"
           transform="translate(1827 366)"

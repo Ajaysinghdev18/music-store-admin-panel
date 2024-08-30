@@ -299,8 +299,8 @@ concert"
           transform="translate(1156.893 331)"
         />
         <text
-          id="D-Music_s_Clubhouse_-_Metaverse"
-          data-name="D-Music's Clubhouse - Metaverse"
+          id="Music_s_Clubhouse_-_Metaverse"
+          data-name="Music's Clubhouse - Metaverse"
           transform="translate(1194.891 568.924) rotate(-90)"
           fill="#fff"
           font-size="31"
